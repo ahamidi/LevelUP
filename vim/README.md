@@ -8,15 +8,16 @@
 
 #### Languages
 
-- [ ] JavaScript
-- [ ] Ruby (+ Rails)
-- [ ] Go
-- [ ] Markdown
+* JavaScript
+* Ruby (+ Rails)
+* Go
+* Markdown
 
-#### Session 1
+#### Week 1 (03/08/2014)
 
+##### Session 1
 
-#### Session 2
+##### Session 2
 
 
 
