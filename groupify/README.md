@@ -7,7 +7,7 @@
 - [ ] Get Groupify deployed at the office
 
 
-#### Week 1 (10/08/2014)
+#### Week 1 (10/08/2015)
 
 ##### Session 1
 
@@ -19,6 +19,8 @@
 
 * Task review
 * Feature/fixes planning
+
+#### Week 2 (17/08/2015)
 
 ##### Session 3
 
