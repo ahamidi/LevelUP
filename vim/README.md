@@ -13,6 +13,8 @@
 * Go
 * Markdown
 
+---
+
 #### Week 1 (03/08/2015)
 
 ##### Session 1
