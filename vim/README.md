@@ -19,7 +19,12 @@
 
 ##### Session 1
 
+* Go setup
+* JavaScript setup
+
 ##### Session 2
+
+* General tips
 
 
 
