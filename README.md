@@ -6,3 +6,7 @@ This repo will be used to house all the code/resources we build/use for Level UP
 
 * [Schedule](https://docs.google.com/spreadsheets/d/1tMSFzFO58rBizjfEBP9Yv0A1CZT-ifGKgoEJTOaXTE0/edit#gid=1752064159)
 
+#### Sessions
+
+1. [VIM](/vim/README.md)
+1. [Groupify](/groupify/README.md)
