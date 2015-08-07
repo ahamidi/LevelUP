@@ -30,9 +30,9 @@
 ###### Questions
 
 * What kind of bracket/block manipulation plugins people use? (for multiline 
-comments and such) (KL)
-* What are some of most useful built-in commands that you frequently use? (SO)
-* What's your clipboard setup? (AH)
-* Quick find all and replace. (JH)
+comments and such) - [tcomment](https://github.com/tomtom/tcomment_vim)
+* What are some of most useful built-in commands that you frequently use? - SEE slides
+* What's your clipboard setup? - Nothing special in VIM, Alfred managed clipboard.
+* Quick find all and replace - `:s%/findthis/replacewiththis/g` (add `c` at end to confirm)
 
 
