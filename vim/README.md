@@ -22,8 +22,9 @@
 * Go setup
 * JavaScript setup
 
-##### Session 2
+##### Session 2 (07/08/2015)
 
+* [Presentation](vim/vim-theory+practice.pdf)
 * Workshop
 * General tips
 
