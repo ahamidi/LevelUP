@@ -17,11 +17,12 @@
 
 #### Week 1 (17/08/2015)
 
-##### Session 1
+##### Session 1 (19/08/2015)
 
 * Application Overview
 * Setup app locally
 * Feature/fixes planning
+* [Presentation](groupify-levelup-01.pdf)
 
 ##### Session 2
 
