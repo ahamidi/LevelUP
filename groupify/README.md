@@ -8,8 +8,8 @@
 
 #### Resources
 
-* [Groupify](https://github.com/ahamidi/groupify) - The Web Application
-* [Groupify Remote](https://github.com/ahamidi/groupify-remote/) - The Remote Component
+* [Groupify](https://github.com/140proof/groupify) - The Web Application
+* [Groupify Remote](https://github.com/140proof/groupify-remote/) - The Remote Component
 * [libspotify](https://developer.spotify.com/technologies/libspotify/) - Spotify SDK 
 * [go-libspotify](https://github.com/op/go-libspotify) - Go wrapper for libspotify
 
