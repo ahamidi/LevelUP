@@ -15,7 +15,7 @@
 
 ---
 
-#### Week 1 (17/08/2015)
+#### Week 1
 
 ##### Session 1 (19/08/2015)
 
@@ -24,7 +24,7 @@
 * Feature/fixes planning
 * [Presentation](groupify-levelup-01.pdf)
 
-##### Session 2
+##### Session 2 (21/08/2015)
 
 * Task review
 * Feature/fixes planning
