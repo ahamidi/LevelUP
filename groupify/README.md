@@ -31,12 +31,16 @@
 
 ---
 
-#### Week 2 (24/08/2015)
+#### Week 2 (28/08/2015)
 
 ##### Session 3
 
 * Task review
 * Feature/fixes planning
+
+---
+
+#### Week 3 (04/09/2015)
 
 ##### Session 4
 
